@@ -5,7 +5,7 @@
 # Pull base image
 FROM php:fpm-alpine
 
-MAINTAINER Rodrigo Mingattos <rodrigo.mingattos@catho.com>
+MAINTAINER Rodrigo Mingattos <rodrigo_mingattos@hotmail.com>
 
 ENV PHALCON_VERSION=3.1.2
 
